@@ -1,12 +1,11 @@
-# Clustering_map
-Automatic clusteing on a map
 ---
-title: Clustering Map
-emoji: 🦀
-colorFrom: gray
-colorTo: gray
-sdk: docker
+title: My Space Title
+emoji: 🚀
+colorFrom: "#FF7F50"
+colorTo: "#00BFFF"
+sdk: gradio
+sdk_version: "3.0"
+app_file: app.py
 pinned: false
-license: apache-2.0
-short_description: Automatic clusters on a map
 ---
+
